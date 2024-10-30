@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect CF7 to HubSpot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-10 11:00+0000\n"
+"PO-Revision-Date: 2024-06-10 12:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: connect-cf7-hubspot"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: src/Templates/admin/settings.php:21
+msgid "Access Token"
+msgstr "Zugangstoken"
+
+#: src/Templates/admin/form.php:82
+msgid "Actions: "
+msgstr "Aktionen: "
+
+#: src/Admin/Settings.php:31 src/Templates/admin/settings.php:61
+msgid "API Error Notification"
+msgstr "API-Fehler-Benachrichtigung"
+
+#: src/Admin/Init.php:48
+msgid ""
+"Authentication credentials not found. This API supports OAuth 2.0 "
+"authentication and you can find more details at https://developers.hubspot."
+"com/docs/methods/auth/oauth-overview"
+msgstr ""
+"Authentifizierungsinformationen nicht gefunden. Diese API unterstützt OAuth "
+"2.0 Authentifizierung und Sie können weitere Details unter https:"
+"//developers.hubspot.com/docs/methods/auth/oauth-overview finden"
+
+#: src/Templates/admin/formList.php:6
+msgid "CF7 - HubSpot Connection"
+msgstr "CF7 - HubSpot Verbindung"
+
+#: src/Admin/RegisterMenu.php:61
+msgid "CF7 - HubSpot: Error Logs"
+msgstr "CF7 - HubSpot: Fehlerprotokolle"
+
+#: src/Templates/admin/formList.php:13
+msgid "CF7 Form"
+msgstr "CF7 Formular"
+
+#: src/Templates/admin/form.php:111 src/Templates/admin/form.php:117
+msgid "CF7 Form Field"
+msgstr "CF7 Formularfeld"
+
+#: src/Admin/RegisterMenu.php:43
+msgid "CF7 to HubSpot"
+msgstr "CF7 zu HubSpot"
+
+#: src/Admin/RegisterMenu.php:52
+msgid "CF7 to HubSpot: Settings"
+msgstr "CF7 zu HubSpot: Einstellungen"
+
+#: src/Templates/admin/settings.php:46
+msgid "Click on ‘Create a private app’ button."
+msgstr "Klicken Sie auf die Schaltfläche 'Eine private Anwendung erstellen'."
+
+#: src/Templates/admin/settings.php:53
+msgid "Click on ‘Create app’ button."
+msgstr "Klicken Sie auf die Schaltfläche 'Anwendung erstellen'."
+
+#: src/Templates/admin/settings.php:34
+msgid "Connect"
+msgstr "Verbinden"
+
+#. Name of the plugin
+msgid "Connect CF7 to HubSpot"
+msgstr "Verbinden Sie CF7 mit HubSpot"
+
+#. Description of the plugin
+msgid ""
+"Connect CF7 to HubSpot plugin allows you to send Contact Form 7 data to "
+"HubSpot."
+msgstr ""
+"Mit dem Connect CF7 to HubSpot-Plugin können Sie Daten von Contact Form 7 an "
+"HubSpot senden."
+
+#: src/Admin/Settings.php:81
+msgid "Connection Error."
+msgstr "Verbindungsfehler."
+
+#: src/Admin/Settings.php:80
+msgid "Connection Successful."
+msgstr "Verbindung erfolgreich."
+
+#: src/Admin/RegisterMenu.php:42
+msgid "Contact Form 7 - HubSpot Integration"
+msgstr "Kontaktformular 7 - HubSpot Integration"
+
+#: src/Templates/admin/settings.php:54
+msgid "Copy the generated access token for use in our plugin."
+msgstr ""
+"Kopieren Sie das generierte Zugriffstoken zur Verwendung in unserem Plugin."
+
+#: src/Templates/admin/form.php:87
+msgid "Create Module Record"
+msgstr "Moduldatensatz erstellen"
+
+#: src/Templates/admin/form.php:92
+msgid "Create/Update Module Record"
+msgstr "Moduldatensatz erstellen/aktualisieren"
+
+#: src/Templates/admin/settings.php:89
+msgid "Delete data on uninstall?"
+msgstr "Daten bei Deinstallation löschen?"
+
+#: src/Templates/admin/formList.php:14
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/Templates/admin/settings.php:83
+msgid ""
+"Enter the email address. For multiple email addresses, you can add email "
+"address by comma separated."
+msgstr ""
+"Geben Sie die E-Mail-Adresse ein. Bei mehreren E-Mail-Adressen können Sie "
+"diese durch Kommas getrennt hinzufügen."
+
+#: src/Templates/admin/settings.php:73
+msgid "Enter the subject."
+msgstr "Geben Sie den Betreff ein."
+
+#: src/Admin/RegisterMenu.php:62
+msgid "Error Logs"
+msgstr "Fehlerprotokolle"
+
+#: src/Templates/admin/form.php:74
+msgid "Filter"
+msgstr "Filter"
+
+#: src/Templates/admin/form.php:59
+msgid "Forms"
+msgstr "Formulare"
+
+#: src/Templates/admin/settings.php:44
+msgid "Go to HubSpot -> Settings -> Integrations -> Private apps."
+msgstr ""
+"Gehen Sie zu HubSpot -> Einstellungen -> Integrationen -> Private "
+"Anwendungen."
+
+#. Author URI of the plugin
+msgid "https://procoders.tech/"
+msgstr "https://procoders.tech/"
+
+#: src/Templates/admin/form.php:112
+msgid "HubSpot Field"
+msgstr "HubSpot Feld"
+
+#: src/Templates/admin/form.php:118
+msgid "Hubspot Field"
+msgstr "HubSpot Feld"
+
+#: src/Templates/admin/settings.php:47
+msgid "In the \"Basic Info\" tab, add an app name and description."
+msgstr ""
+"Fügen Sie im Tab \"Grundinformationen\" einen Anwendungsnamen und eine "
+"Beschreibung hinzu."
+
+#: src/Templates/admin/settings.php:48
+msgid ""
+"In the \"Scopes\" tab, select the following \"CRM\" and \"Standard\" scopes: "
+"crm.objects.contacts, crm.objects.deals, crm.schemas.contacts, crm.schemas."
+"deals."
+msgstr ""
+"In der Registerkarte \"Scopes\" wählen Sie die folgenden \"CRM\"- und "
+"\"Standard\"-Scopes aus: crm.objects.contacts, crm.objects.deals, crm."
+"schemas.contacts, crm.schemas.deals."
+
+#: src/Admin/Init.php:230
+msgid "Integration settings saved."
+msgstr "Integrationseinstellungen gespeichert."
+
+#: src/Templates/admin/settings.php:43
+msgid "Log in to your HubSpot account as an administrator."
+msgstr "Melden Sie sich als Administrator bei Ihrem HubSpot-Konto an."
+
+#: src/Admin/Logs.php:38
+msgid "No Error Logs found."
+msgstr "Keine Fehlerprotokolle gefunden."
+
+#: src/Templates/admin/formList.php:34
+msgid "No forms found."
+msgstr "Keine Formulare gefunden."
+
+#: src/Admin/SettingsLinks.php:48
+msgctxt "Options link"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/Admin/SettingsLinks.php:50
+msgctxt "Plugin site"
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#. Author of the plugin
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#: src/Templates/admin/form.php:148
+msgid "Required"
+msgstr "Erforderlich"
+
+#: src/Templates/admin/settings.php:103 src/Templates/admin/form.php:179
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: src/Templates/admin/form.php:129
+msgid "Select a field"
+msgstr "Wählen Sie ein Feld aus"
+
+#: src/Templates/admin/form.php:48
+msgid "Select an module"
+msgstr "Wählen Sie ein Modul aus"
+
+#: src/Templates/admin/form.php:42
+msgid "Select Module"
+msgstr "Modul auswählen"
+
+#: src/Templates/admin/settings.php:78
+msgid "Send To"
+msgstr "Senden an"
+
+#: src/Admin/RegisterMenu.php:53 src/Templates/admin/settings.php:6
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/Templates/admin/settings.php:68
+msgid "Subject"
+msgstr "Thema"
+
+#: src/Templates/admin/form.php:30
+msgid "Turn on integration on form"
+msgstr "Integration im Formular einschalten"
+
+#: src/Templates/admin/settings.php:49
+msgid "Under \"files,\" check the \"Request\" checkbox."
+msgstr "Markieren Sie unter \"Dateien\" das Kontrollkästchen \"Anforderung\"."
+
+#: src/Templates/admin/settings.php:50
+msgid "Under \"forms,\" check the \"Request\" checkbox."
+msgstr ""
+"Markieren Sie unter \"Formulare\" das Kontrollkästchen \"Anforderung\"."

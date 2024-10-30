@@ -1,0 +1,9 @@
+/.wordpress-org
+/.git
+/.github
+/node_modules
+/.idea
+/phpcs.xml.dist
+*.l10n.php
+*.po~
+**DS_Store

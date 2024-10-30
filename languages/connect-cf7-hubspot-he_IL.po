@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect CF7 to HubSpot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-10 12:10+0000\n"
+"PO-Revision-Date: 2024-06-10 12:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: connect-cf7-hubspot"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: src/Templates/admin/settings.php:21
+msgid "Access Token"
+msgstr "אסימון גישה"
+
+#: src/Templates/admin/form.php:82
+msgid "Actions: "
+msgstr "פעולות: "
+
+#: src/Admin/Settings.php:31 src/Templates/admin/settings.php:61
+msgid "API Error Notification"
+msgstr "הודעה על שגיאת API"
+
+#: src/Admin/Init.php:48
+msgid ""
+"Authentication credentials not found. This API supports OAuth 2.0 "
+"authentication and you can find more details at https://developers.hubspot."
+"com/docs/methods/auth/oauth-overview"
+msgstr ""
+"אימות נתונים לא נמצא. API זה תומך באימות OAuth 2.0 ותוכל למצוא פרטים נוספים "
+"בכתובת https://developers.hubspot.com/docs/methods/auth/oauth-overview"
+
+#: src/Templates/admin/formList.php:6
+msgid "CF7 - HubSpot Connection"
+msgstr "חיבור CF7 - HubSpot"
+
+#: src/Admin/RegisterMenu.php:61
+msgid "CF7 - HubSpot: Error Logs"
+msgstr "קבצי יומן שגיאות של CF7 - HubSpot"
+
+#: src/Templates/admin/formList.php:13
+msgid "CF7 Form"
+msgstr "טופס CF7"
+
+#: src/Templates/admin/form.php:111 src/Templates/admin/form.php:117
+msgid "CF7 Form Field"
+msgstr "שדה טופס CF7"
+
+#: src/Admin/RegisterMenu.php:43
+msgid "CF7 to HubSpot"
+msgstr "CF7 ל-HubSpot"
+
+#: src/Admin/RegisterMenu.php:52
+msgid "CF7 to HubSpot: Settings"
+msgstr "הגדרות של CF7 ל-HubSpot"
+
+#: src/Templates/admin/settings.php:46
+msgid "Click on ‘Create a private app’ button."
+msgstr "לחץ על כפתור 'צור אפליקציה פרטית'."
+
+#: src/Templates/admin/settings.php:53
+msgid "Click on ‘Create app’ button."
+msgstr "לחץ על כפתור 'צור אפליקציה'."
+
+#: src/Templates/admin/settings.php:34
+msgid "Connect"
+msgstr "התחבר"
+
+#. Name of the plugin
+msgid "Connect CF7 to HubSpot"
+msgstr "חבר CF7 אל HubSpot"
+
+#. Description of the plugin
+msgid ""
+"Connect CF7 to HubSpot plugin allows you to send Contact Form 7 data to "
+"HubSpot."
+msgstr ""
+"התוסף Connect CF7 ל-HubSpot מאפשר לך לשלוח נתונים מטופס קשר 7 ל-HubSpot."
+
+#: src/Admin/Settings.php:81
+msgid "Connection Error."
+msgstr "שגיאת חיבור."
+
+#: src/Admin/Settings.php:80
+msgid "Connection Successful."
+msgstr "החיבור הצליח."
+
+#: src/Admin/RegisterMenu.php:42
+msgid "Contact Form 7 - HubSpot Integration"
+msgstr "אינטגרציה של טופס קשר 7 - HubSpot"
+
+#: src/Templates/admin/settings.php:54
+msgid "Copy the generated access token for use in our plugin."
+msgstr "העתק את האסימון שנוצר לשימוש בתוסף שלנו."
+
+#: src/Templates/admin/form.php:87
+msgid "Create Module Record"
+msgstr "צור רשומת מודול"
+
+#: src/Templates/admin/form.php:92
+msgid "Create/Update Module Record"
+msgstr "צור/עדכן רשומת מודול"
+
+#: src/Templates/admin/settings.php:89
+msgid "Delete data on uninstall?"
+msgstr "למחוק נתונים בהסרה?"
+
+#: src/Templates/admin/formList.php:14
+msgid "Edit"
+msgstr "ערוך"
+
+#: src/Templates/admin/settings.php:83
+msgid ""
+"Enter the email address. For multiple email addresses, you can add email "
+"address by comma separated."
+msgstr ""
+"הזן את כתובת הדואר האלקטרוני. למספר כתובות דואר אלקטרוני, אתה יכול להוסיף "
+"כתובת דואר אלקטרוני באמצעות פסיק מפריד."
+
+#: src/Templates/admin/settings.php:73
+msgid "Enter the subject."
+msgstr "כתוב את הנושא."
+
+#: src/Admin/RegisterMenu.php:62
+msgid "Error Logs"
+msgstr "לוגי שגיאות"
+
+#: src/Templates/admin/form.php:74
+msgid "Filter"
+msgstr "סינון"
+
+#: src/Templates/admin/form.php:59
+msgid "Forms"
+msgstr "טפסים"
+
+#: src/Templates/admin/settings.php:44
+msgid "Go to HubSpot -> Settings -> Integrations -> Private apps."
+msgstr "עבור אל HubSpot -> הגדרות -> אינטגרציה -> אפליקציות פרטיות."
+
+#. Author URI of the plugin
+msgid "https://procoders.tech/"
+msgstr "https://procoders.tech/"
+
+#: src/Templates/admin/form.php:112
+msgid "HubSpot Field"
+msgstr "שדה HubSpot"
+
+#: src/Templates/admin/form.php:118
+msgid "Hubspot Field"
+msgstr "שדה HubSpot"
+
+#: src/Templates/admin/settings.php:47
+msgid "In the \"Basic Info\" tab, add an app name and description."
+msgstr "בכרטיסייה \"מידע בסיסי\", הוסף שם לאפליקציה ותיאור."
+
+#: src/Templates/admin/settings.php:48
+msgid ""
+"In the \"Scopes\" tab, select the following \"CRM\" and \"Standard\" scopes: "
+"crm.objects.contacts, crm.objects.deals, crm.schemas.contacts, crm.schemas."
+"deals."
+msgstr ""
+"בכרטיסיית \"היקפים\", בחר את ההיקפים הבאים של \"CRM\" ו\"סטנדרט\": crm."
+"objects.contacts, crm.objects.deals, crm.schemas.contacts, crm.schemas.deals."
+
+#: src/Admin/RegisterMenu.php:61
+msgid "Logs"
+msgstr "לוגים"
+
+#: src/Admin/Init.php:230
+msgid "Integration settings saved."
+msgstr "הגדרות האינטגרציה נשמרו."
+
+#: src/Templates/admin/settings.php:43
+msgid "Log in to your HubSpot account as an administrator."
+msgstr "התחבר לחשבון HubSpot שלך כמנהל."
+
+#: src/Admin/Logs.php:38
+msgid "No Error Logs found."
+msgstr "לא נמצאו יומני שגיאות."
+
+#: src/Templates/admin/formList.php:34
+msgid "No forms found."
+msgstr "לא נמצאו טפסים."
+
+#: src/Admin/SettingsLinks.php:48
+msgctxt "Options link"
+msgid "Settings"
+msgstr "הגדרות"
+
+#: src/Admin/SettingsLinks.php:50
+msgctxt "Plugin site"
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#. Author of the plugin
+msgid "ProCoders"
+msgstr "ProCoders"
+
+#: src/Templates/admin/form.php:148
+msgid "Required"
+msgstr "נדרש"
+
+#: src/Templates/admin/settings.php:103 src/Templates/admin/form.php:179
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: src/Templates/admin/form.php:129
+msgid "Select a field"
+msgstr "בחר שדה"
+
+#: src/Templates/admin/form.php:48
+msgid "Select an module"
+msgstr "בחר מודול"
+
+#: src/Templates/admin/form.php:42
+msgid "Select Module"
+msgstr "בחר מודול"
+
+#: src/Templates/admin/settings.php:78
+msgid "Send To"
+msgstr "שלח ל-"
+
+#: src/Admin/RegisterMenu.php:53 src/Templates/admin/settings.php:6
+msgid "Settings"
+msgstr "הגדרות"
+
+#: src/Templates/admin/settings.php:68
+msgid "Subject"
+msgstr "נושא"
+
+#: src/Templates/admin/settings.php:39
+msgid "To obtain a HubSpot Access Token, follow these steps:"
+msgstr "כדי לקבל אסימון גישה של HubSpot, עקוב אחר השלבים האלה:"
+
+#: src/Templates/admin/form.php:30
+msgid "Turn on integration on form"
+msgstr "הפעל אינטגרציה בטופס"
+
+#: src/Templates/admin/settings.php:49
+msgid "Under \"files,\" check the \"Request\" checkbox."
+msgstr "תחת \"קבצים\", סמן את התיבה \"בקשה\"."
+
+#: src/Templates/admin/settings.php:50
+msgid "Under \"forms,\" check the \"Request\" checkbox."
+msgstr "תחת \"טפסים\", סמן את התיבה \"בקשה\"."

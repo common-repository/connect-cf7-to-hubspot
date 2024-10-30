@@ -1,0 +1,52 @@
+.cfhs__wrp tr td:first-child {
+    font-weight: bold;
+}
+
+.cfhs__wrp tr.active td:first-child {
+    color: #0e7b17;
+}
+
+.cfhs__wrp tr.inactive td:first-child {
+    color: #9e1313;
+}
+
+.cfhs__wrp .notice {
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.cfhs__wrp {
+    max-width: 1024px;
+    width: 100%;
+}
+
+.cfhs__form_row {
+    margin-bottom: .5rem;
+}
+.cfhs__form_row:last-child {
+    margin-bottom:0;
+}
+.cfhs__wrp .form-inline-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.cfhs__wrp .form-inline-flex label {
+    margin-right: 20px;
+}
+
+.cfhs__wrp .form-inline-flex .button-secondary {
+    margin-left: 5px;
+}
+
+.cfhs__wrp .form-check label {
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.cfhs__wrp div.submit{
+    margin-bottom: 5px;
+}
+#cfhs_access_token{
+    min-width:400px;
+}
